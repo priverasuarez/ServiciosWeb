@@ -1,0 +1,16 @@
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\bin\Debug\netcoreapp2.1\WebServiceAPI001.deps.json
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\bin\Debug\netcoreapp2.1\WebServiceAPI001.runtimeconfig.json
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\bin\Debug\netcoreapp2.1\WebServiceAPI001.runtimeconfig.dev.json
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\bin\Debug\netcoreapp2.1\WebServiceAPI001.dll
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\bin\Debug\netcoreapp2.1\WebServiceAPI001.pdb
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.csprojAssemblyReference.cache
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.csproj.CoreCompileInputs.cache
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.RazorAssemblyInfo.cache
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.RazorAssemblyInfo.cs
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.AssemblyInfoInputs.cache
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.AssemblyInfo.cs
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.RazorTargetAssemblyInfo.cache
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.dll
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.pdb
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\bin\Debug\netcoreapp2.1\BecaAvanadeModel.dll
+C:\Users\p.rivera.suarez\source\repos\WebServiceAPI001\WebServiceAPI001\obj\Debug\netcoreapp2.1\WebServiceAPI001.csproj.CopyComplete

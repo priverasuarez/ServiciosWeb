@@ -1,0 +1,13 @@
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\bin\Debug\netcoreapp2.1\CLCDal.deps.json
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\bin\Debug\netcoreapp2.1\CLCDal.dll
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\bin\Debug\netcoreapp2.1\BecaAvanadeModel.dll
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.csprojAssemblyReference.cache
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.csproj.CoreCompileInputs.cache
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.AssemblyInfoInputs.cache
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.AssemblyInfo.cs
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.csproj.CopyComplete
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\bin\Debug\netcoreapp2.1\CLCDal.runtimeconfig.json
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\bin\Debug\netcoreapp2.1\CLCDal.runtimeconfig.dev.json
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\bin\Debug\netcoreapp2.1\CLCDal.pdb
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.dll
+C:\Users\p.rivera.suarez\source\repos\CLCDal\CLCDal\obj\Debug\netcoreapp2.1\CLCDal.pdb
